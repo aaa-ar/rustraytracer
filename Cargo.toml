@@ -1,0 +1,8 @@
+[package]
+name = "ha5"
+version = "0.1.0"
+authors = ["cherkasov <a.y.cherkasov@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6"
